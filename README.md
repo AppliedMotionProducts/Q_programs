@@ -1,7 +1,7 @@
 # 🌟 Q_programs 🌟
 
 
-**Introduction ** 
+# Introduction 
 
 The attached application note attempts to help users more quickly understand and begin using the Q  
 programming language from Applied Motion Products.  
@@ -26,7 +26,7 @@ Provided below is a short description of the difference between Q segments and p
 Example segments and programs accompanying this application note can be found on our  
 website by downloading APPN0051: https://www.applied-motion.com/support/application-notes  
 
-Q Segments  
+# Q Segments  
 Q segments are discrete sections of the larger Q program. There are a total of 12 segments in a  
 Q program. Each segment can be loaded into the Q Programmer software individually and has  
 the file extension .qsg. The Q segment examples provided with this application note are useful  
@@ -39,7 +39,7 @@ by the Execute button to execute it.
 ![image](https://github.com/user-attachments/assets/13bab925-2458-4677-860a-6b43886a6f35)
 
 
-Q Programs  
+# Q Programs  
 Q programs contain a total of 12 Q segments and enable users to organize the Q program to  
 best fit their needs. For example, it may be best to devote each segment to a single task. Or it  
 may be better to string multiple segments together to create one long program. Q programs  
@@ -52,7 +52,7 @@ functionality and how to program across multiple segments.
 ![image](https://github.com/user-attachments/assets/572c4e51-583d-460d-802e-5c16229969e6)
 
 
-Conclusion  
+# Conclusion  
 Example Q segments and programs are provided with this application note to help users get up  
 and running quickly and efficiently with Q Programmer. All examples are commented and ready  
 to be executed with few or no changes required.
